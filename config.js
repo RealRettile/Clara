@@ -23,9 +23,9 @@ module.exports = {
   nodes: [
      {
     name: "GlaceYT",
-    password: "youshallnotpass",
-    host: "lavalink.railway.internal",
-    port: 2333,
+    password: "glace",
+    host: "ge-02.vortexa.cloud",
+    port: 11050,
     secure: false
     }
   ]
